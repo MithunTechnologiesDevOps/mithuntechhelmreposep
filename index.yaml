@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebappchart:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2022-02-12T01:08:29.835459507Z"
+    description: A Helm chart for Kubernetes to deploy java web application
+    digest: 65664c177b3766e10c1985342efb7fda7975ea6b75f20cb80d2272ad6667fdd7
+    name: javawebappchart
+    type: application
+    urls:
+    - https://mithuntechnologiesdevops.github.io/mithuntechhelmreposep/javawebappchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-12T01:08:29.834575265Z"
